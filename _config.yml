@@ -5,6 +5,7 @@ email: your.email@example.com
 
 # Theme
 theme: minima
+skin: solar
 
 # Build settings
 markdown: kramdown
