@@ -16,4 +16,4 @@ github_username: yourusername
 linkedin_username: yourlinkedin
 
 # Show excerpts on home page
-# show_excerpts: true
+ show_excerpts: false
