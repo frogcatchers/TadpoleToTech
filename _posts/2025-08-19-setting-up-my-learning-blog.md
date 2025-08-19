@@ -6,7 +6,7 @@ categories: [meta, setup]
 tags: [jekyll, github-pages, blogging]
 ---
 
-# Welcome to My Learning Journey!
+## Welcome to My Learning Journey!
 
 Today I set up this blog to document my IT learning experiences. Here's what I plan to cover:
 
