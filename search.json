@@ -17,9 +17,9 @@ layout: null
     {%- assign first = false -%}
   {%- endfor -%}
 
-  {%- for collection in site.collections -%}
-    {%- assign coll = collection[1] -%}
-    {%- for doc in coll.docs -%}
+  {%- for coll in site.collections -%}
+    {%- assign docs = coll.docs -%}
+    {%- for doc in docs -%}
       {%- unless first -%},{%- endunless -%}
       {
         "title"     : {{ doc.title | jsonify }},
