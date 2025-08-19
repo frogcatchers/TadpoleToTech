@@ -3,6 +3,8 @@ layout: home
 skins: dark
 ---
 
+## Welcome to My Learning Journey
+
 I'm documenting my self-directed studies through **DevOps fundamentals**, **emerging technologies**, and **hands-on project implementations**. This blog serves as both a learning log and a resource for others following similar paths.
 
 ## What I'm Exploring
