@@ -5,7 +5,8 @@ email: frog.catcher@example.com
 
 # Theme
 theme: minima
-skin: dark
+minima:
+  skin: dark
 
 # Build settings
 markdown: kramdown
@@ -13,8 +14,8 @@ highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
 # Social links (optional)
-github_username: yourusername
+github_username: frogcatchers
 linkedin_username: yourlinkedin
 
 # Show excerpts on home page
- show_excerpts: false
+show_excerpts: false
