@@ -3,8 +3,10 @@ description: Documenting my path through DevOps, Docker, Kubernetes, and CI/CD
 author: Frog Catcher
 email: frog.catcher@example.com
 
-# Theme
 theme: minima
+plugins:
+  - jekyll-feed
+
 minima:
   skin: dark
 
