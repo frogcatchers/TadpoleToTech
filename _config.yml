@@ -86,3 +86,4 @@ defaults:
 header_pages:
   - about.md
   - learning-paths.md
+  - search.md
