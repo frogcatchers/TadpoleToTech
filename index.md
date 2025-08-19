@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Welcome to My IT Learning Journey!
-
 I'm documenting my path through DevOps, Docker, Kubernetes, and CI/CD.
 
 ## What You'll Find Here
@@ -11,6 +9,3 @@ I'm documenting my path through DevOps, Docker, Kubernetes, and CI/CD.
 - Hands-on project walkthroughs  
 - Troubleshooting adventures
 - Resource recommendations
-
-## Latest Posts
-<!-- Jekyll will automatically list your blog posts below -->
