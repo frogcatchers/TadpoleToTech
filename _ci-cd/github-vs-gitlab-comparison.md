@@ -1,3 +1,11 @@
+---
+title: "Getting to know GitHub vs Gitlab"
+date: 2025-08-19
+excerpt: "Claude.ai recommending a learning strategy"
+---
+
+# Learning to use GitHub vs Gitlab
+
 Today I asked Claude.ai to help me come up with a strategy for learning both GitHub and Gitlab while using each to focus on different tasks.
 Claude recommended a Split Strategy
 GitHub (Public Face):
