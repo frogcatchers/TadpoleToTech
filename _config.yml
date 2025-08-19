@@ -20,6 +20,14 @@ linkedin_username: yourlinkedin
 # Show excerpts on home page
 show_excerpts: false
 
+
+
+# Navigation
+header_pages:
+  - about.md
+  - learning-paths.md
+  
+
 # Collections
 collections:
   docker:
