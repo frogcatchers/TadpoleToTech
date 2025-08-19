@@ -1,5 +1,6 @@
 ---
 layout: home
+skins: dark
 ---
 
 I'm documenting my path through DevOps, Docker, Kubernetes, and CI/CD.
