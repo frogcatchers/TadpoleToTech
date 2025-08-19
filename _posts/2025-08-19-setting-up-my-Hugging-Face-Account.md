@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "Setting Up My IT Learning Blog"
+title: "Setting Up My Ai Learning Blog"
 date: 2025-08-19
 categories: [Ai, Setup]
 tags: [hugging face, Ai, Agents, Python]
 ---
 
-## Welcome to My Learning Journey!
+## Welcome to My Ai Learning Journey!
 
-Today I set up this blog to document my IT learning experiences. Here's what I plan to cover:
+Today I set up this Hugging Face account to document my IT learning experiences. Here's what I plan to cover:
 
 ## Learning Goals
 - **Docker & Containerization**: Understanding container concepts and practical usage
