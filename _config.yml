@@ -1,0 +1,19 @@
+title: My IT Learning Journey
+description: Documenting my path through DevOps, Docker, Kubernetes, and CI/CD
+author: Your Name
+email: your.email@example.com
+
+# Theme
+theme: minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Social links (optional)
+github_username: yourusername
+linkedin_username: yourlinkedin
+
+# Show excerpts on home page
+show_excerpts: true
