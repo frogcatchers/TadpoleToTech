@@ -1,12 +1,10 @@
 title: My IT Learning Journey
-description: Documenting my path through DevOps, Docker, Kubernetes, and CI/CD
+description: Documenting my path through DevOps, Docker, Kubernetes, CI/CD, AI, Blockchain, and Quantum Computing
 author: Frog Catcher
 email: frog.catcher@example.com
 
+# Theme
 theme: minima
-plugins:
-  - jekyll-feed
-
 minima:
   skin: dark
 
@@ -22,14 +20,6 @@ linkedin_username: yourlinkedin
 # Show excerpts on home page
 show_excerpts: false
 
-
-
-# Navigation
-header_pages:
-  - about.md
-  - learning-paths.md
-  
-
 # Collections
 collections:
   docker:
@@ -42,6 +32,15 @@ collections:
     output: true
     permalink: /:collection/:name/
   projects:
+    output: true
+    permalink: /:collection/:name/
+  ai:
+    output: true
+    permalink: /:collection/:name/
+  blockchain:
+    output: true
+    permalink: /:collection/:name/
+  quantum:
     output: true
     permalink: /:collection/:name/
 
@@ -67,3 +66,23 @@ defaults:
       type: "projects"
     values:
       layout: "post"
+  - scope:
+      path: ""
+      type: "ai"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "blockchain"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "quantum"
+    values:
+      layout: "post"
+
+# Navigation
+header_pages:
+  - about.md
+  - learning-paths.md
