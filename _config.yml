@@ -19,3 +19,41 @@ linkedin_username: yourlinkedin
 
 # Show excerpts on home page
 show_excerpts: false
+
+# Collections
+collections:
+  docker:
+    output: true
+    permalink: /:collection/:name/
+  kubernetes:
+    output: true  
+    permalink: /:collection/:name/
+  ci-cd:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
+
+# Default settings for collections
+defaults:
+  - scope:
+      path: ""
+      type: "docker"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "kubernetes"  
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "ci-cd"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "post"
