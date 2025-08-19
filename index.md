@@ -2,9 +2,6 @@
 layout: home
 skins: dark
 ---
----
-layout: home
----
 
 # Welcome to My Learning Journey
 
